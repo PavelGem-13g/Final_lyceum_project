@@ -2,19 +2,19 @@
 
 public class PlayerController : MonoBehaviour
 {
-    Rigidbody2D rigidbody;
+    Rigidbody2D rb;
     public float speed;
     public float jumpForce;
     public int jumpCounter = 2;
     public bool isBodyTolcheckRight = false;
     public bool isBodyTolcheckLeft = false;
-    SpriteRenderer renderer;
+    SpriteRenderer render;
     Animator animator;
 
     void Start()
     {
-        rigidbody = GetComponent<Rigidbody2D>();
-        renderer = GetComponent<SpriteRenderer>();
+        rb = GetComponent<Rigidbody2D>();
+        render = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
     }
 
@@ -27,24 +27,24 @@ public class PlayerController : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.D) && !isBodyTolcheckRight)
         {
-            rigidbody.velocity = new Vector3(speed * Time.deltaTime, rigidbody.velocity.y);
-            renderer.flipX = false;
+            rb.velocity = new Vector3(speed * Time.deltaTime, rb.velocity.y);
+            render.flipX = false;
         }
         if (Input.GetKey(KeyCode.A) && !isBodyTolcheckLeft)
         {
-            rigidbody.velocity = new Vector3(-speed * Time.deltaTime, rigidbody.velocity.y);
-            renderer.flipX = true;
+            rb.velocity = new Vector3(-speed * Time.deltaTime, rb.velocity.y);
+            render.flipX = true;
         }
         if (Input.GetKeyDown(KeyCode.Space) && jumpCounter > 0)
         {
-            rigidbody.AddForce(new Vector3(0, jumpForce * Time.deltaTime), ForceMode2D.Impulse);
+            rb.AddForce(new Vector3(0, jumpForce * Time.deltaTime), ForceMode2D.Impulse);
             jumpCounter--;
         }
-        if (rigidbody.velocity.y>1f)
+        if (rb.velocity.y>1f)
         {
             animator.Play("Jump");
         }
-        else if (Mathf.Abs(rigidbody.velocity.x) > 2f)
+        else if (Mathf.Abs(rb.velocity.x) > 2f)
         {
             animator.Play("Moveing");
         }
