@@ -1,25 +1,130 @@
-Base path: C:/Program Files/Unity/Hub/Editor/2018.4.17f1/Editor/Data
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.21f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.21f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Lit/Lit.hlsl(104): 'CLEAR_COAT_ROUGHNESS' : macro redefinition
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Debug/DebugDisplay.hlsl(231): undeclared identifier 'IsNan'
+  api=4 insize=13661 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=26681 outsize=15257 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26681 outsize=15441 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26681 outsize=16185 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11176 outsize=10429 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5022 outsize=9102 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3532 outsize=2622 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8653 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8523 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=10714 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19063 outsize=14544 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19063 outsize=15192 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SubsurfaceScattering.compute(84): undeclared identifier 'Mad24Int'
+  api=4 insize=20370 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/VolumetricLighting/VBuffer.hlsl(15): unrecognized identifier 'VBuffer'
+  api=4 insize=36517 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/VolumetricLighting/VBuffer.hlsl(15): unrecognized identifier 'VBuffer'
+  api=4 insize=36517 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/VolumetricLighting/VBuffer.hlsl(15): unrecognized identifier 'VBuffer'
+  api=4 insize=17323 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=1505 outsize=603 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=5420 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=6813 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=5923 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=7316 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=7476 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=9445 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=8312 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=9973 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=8342 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=8073 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=7965 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=9477 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=11138 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=10770 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=731 outsize=422 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1224 outsize=346 kw=UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
